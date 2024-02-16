@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Protest+Riot&display=swap");
+body {
+  height: 100vh;
+  font-family: "Protest Riot", sans-serif;
+}
+textarea {
+  width: 50%;
+  padding: 15px;
+  border-radius: 15px;
+  border: 2px solid greenyellow;
+  outline: none;
+}
+button {
+  margin-top: 15px;
+  background-color: palevioletred;
+  border: none;
+  outline: none;
+  padding: 10px 30px;
+  border-radius: 50px;
+  color: white;
+}
